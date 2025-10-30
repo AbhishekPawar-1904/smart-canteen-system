@@ -2,7 +2,7 @@
 
 A full-stack, multi-role web application designed to modernize the ordering process at the R. C. Patel Institute of Technology (RCPIT) canteen. This project digitizes the entire workflow, from browsing the menu to placing orders and managing them, creating an efficient and user-friendly experience for students, canteen staff, and administrators.
 
-![Main Menu Page](https://i.imgur.com/C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 092518.png)
+![Screenshot 2025-10-30 092518](https://github.com/AbhishekPawar-1904/smart-canteen-system/assets/112613568/a25287f3-b3b4-4b55-a22a-6d0e828d380f)
 
 ---
 
@@ -11,10 +11,11 @@ A full-stack, multi-role web application designed to modernize the ordering proc
 This application addresses the common inefficiencies of a traditional canteen system, such as long queues and manual order tracking. By creating a complete digital ecosystem, it streamlines operations and enhances the user experience. The system is built on a robust multi-role architecture, providing a unique and secure interface for each type of user.
 
 ### 👤 **Customer**
+- **User Authentication**: Secure registration and login system.
 - **Dynamic Menu Browsing**: Customers can explore a visually rich menu, complete with high-quality images, detailed descriptions, prices, and real-time availability status ("In Stock" / "Out of Stock").
 - **Seamless Ordering**: An interactive shopping cart allows users to add multiple quantities of items and see their bill update instantly.
 - **Flexible Order Types**: Users can choose between **"Pickup"** from the canteen or **"On-Campus Delivery"** to a specific location like the library or a department building.
-- **Order History & Feedback**: A personal dashboard allows customers to view their past orders and provide a rating (1-5 stars) and written feedback for each item, helping the administration monitor food quality.
+- **Order History & Feedback**: A personal dashboard allows customers to view their past orders and provide a rating (1-5 stars) and a comment for each item, helping the administration monitor food quality.
 
 ### 🧑‍🍳 **Canteen Staff**
 - **Live Order Dashboard**: A real-time dashboard that uses **Server-Sent Events (SSE)** to instantly display new incoming orders as they are placed, complete with a notification alert, eliminating the need for manual page refreshing.
