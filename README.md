@@ -2,8 +2,6 @@
 
 A full-stack, multi-role web application designed to modernize the ordering process at the R. C. Patel Institute of Technology (RCPIT) canteen. This project digitizes the entire workflow, from browsing the menu to placing orders and managing them, creating an efficient and user-friendly experience for students, canteen staff, and administrators.
 
-![Screenshot 2025-10-30 092518](https://github.com/AbhishekPawar-1904/smart-canteen-system/assets/112613568/a25287f3-b3b4-4b55-a22a-6d0e828d380f)
-
 ---
 
 ## ✨ Project Overview & Key Features
